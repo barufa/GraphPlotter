@@ -1,2 +1,2 @@
 # GraphPlotter
-Implementación del algoritmo Fruchterman-Reingold para graficar grafos desarrollado en lenguaje Python.
+Aplicación del algoritmo Fruchterman-Reingold para graficar grafos implementado en Python.
